@@ -1,7 +1,6 @@
 # Javafx-Project-Job-Portal
 ## project pictures:
-<img src="![image](https://github.com/dheerajkumar47/Javafx-Project-Job-Portal/assets/114693153/d3feaa16-c976-4229-9a76-6f653e79549f)
-" alt="START" width="300"/>
+<img src="" alt="START" width="300"/>
 
 
 # CPU Scheduling Simulator using JavaFX
