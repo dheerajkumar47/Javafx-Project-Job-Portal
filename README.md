@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/dheerajkumar47/Javafx-Project-Job-Portal.git
 
 Open the project in your favorite Java IDE.
 
